@@ -1,0 +1,39 @@
+
+var ftGUID_4253002="5161AD639BD352";
+var ftConfID_4253002="0";
+var ftParams_4253002="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=blockdmask.tistory.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fblockdmask.tistory.com%2F425&ft_section=__20079358172167735611930271899489543921&cachebuster=76531.48216996342";
+var ftKeyword_4253002="";
+var ftCustom_4253002="";
+var ftSection_4253002="__20079358172167735611930271899489543921";
+var ftSegment_4253002="aiyn,ai3n,ai3l,ajjn,ajv0,ajwn,afr5,akc0,akox";
+var ftSegmentList_4253002=[{s:'aiyn'},{s:'ai3n'},{s:'ai3l'},{s:'ajjn'},{s:'ajv0'},{s:'ajwn'},{s:'afr5'},{s:'akc0'},{s:'akox'}];
+var ftRuleMatch_4253002="0";
+var ftTimestamp_4253002="1680845540";
+var ftGeoC2_4253002="kr";
+var ftGeoState_4253002="44";
+var ftGeoCity_4253002="sinchang-myeon";
+var ftISP_4253002="korean education network";
+var ftSpeed_4253002="broadband";
+var ftConnType_4253002="wifi";
+var ftDMA_4253002="410150";
+var ftLong_4253002="126.93";
+var ftLat_4253002="36.77";
+var ftPostal_4253002="31538";
+var ftTimeZone_4253002="+900";
+var ftMobileCarrier_4253002="";
+var ftImp4253002 = {};
+ftImp4253002.privacy = "x";
+ftImp4253002.guidAge = "414";
+ftImp4253002.impID = "0124F20D-32C3-8BF0-B23B-43E168746185";
+ftImp4253002.duid = "FT:5161AD639BD352";
+
+ftImp4253002.ft_tpplid = "";
+ftImp4253002.ft_c = {};
+ftImp4253002.gdpr = "";
+ftImp4253002.gdpr_consent = "";
+ftImp4253002.gdpr_pd = "";
+ftImp4253002.oob_consent = "";
+ftImp4253002.gdprStoredConsent = "";
+ftImp4253002.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/425/4253002/4198815/js/j-4253002-4198815.js" id="ftscript_m4253002" name="ftscript_m4253002"></scr'+'ipt>');
